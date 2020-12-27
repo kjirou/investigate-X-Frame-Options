@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/kjirou/investigate-X-Frame-Options/issues"
   },
-  "homepage": "https://github.com/kjirou/investigate-X-Frame-Options#readme"
+  "homepage": "https://github.com/kjirou/investigate-X-Frame-Options#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
 }
